@@ -1,0 +1,35 @@
+province_id,province_name,island,iso_code,capital_city,population,population_kmsquare,active
+1,Aceh,Sumatra,AC,Banda Aceh,4906835,86,1003
+2,Bali,Kepulauan Nusa Tenggara,BA,Denpasar,4104900,738,1676
+3,Banten,Jawa,BT,Serang,11704877,1298,1961
+4,Bengkulu,Sumatra,BE,Bengkulu,1844800,93,847
+5,Yogyakarta,Jawa,YO,Yogyakarta,3553100,1134,3814
+6,Jakarta Raya,Jawa,JK,Jakarta,10012271,1353,6657
+7,Gorontalo,Sulawesi,GO,Gorontalo,1115633,93,152
+8,Jambi,Sumatra,JA,Jambi,3344400,63,1445
+9,Jawa Barat,Jawa,JB,Bandung,46029668,1306,30597
+10,Jawa Tengah,Jawa,JT,Semarang,33522663,986,10343
+11,Jawa Timur,Jawa,JI,Surabaya,38610202,806,2191
+12,Kalimantan Barat,Kalimantan,KB,Pontianak,4716093,41,985
+13,Kalimantan Selatan,Kalimantan,KS,Banjarmasin,3922790,107,2107
+14,Kalimantan Tengah,Kalimantan,KT,Palangka Raya,2439858,16,2728
+15,Kalimantan Timur,Kalimantan,KI,Samarinda,3351432,17,1658
+16,Kalimantan Utara,Kalimantan,KU,Tanjung Selor,618384,9,565
+17,Bangka Belitung,Sumatra,BB,Pangkalpinang,1343900,82,1686
+18,Kepulauan Riau,Sumatra,KR,Tanjungpinang,1917415,237,1474
+19,Lampung,Sumatra,LA,Bandar Lampung,8026191,227,1324
+20,Maluku,Kepulauan Maluku,MA,Ambon,1657409,34,280
+21,Maluku Utara,Kepulauan Maluku,MU,Sofifi,1138667,27,150
+22,Nusa Tenggara Barat,Kepulauan Nusa Tenggara,NB,Mataram,4773795,239,2190
+23,Nusa Tenggara Timur,Kepulauan Nusa Tenggara,NT,Kupang,5036897,106,1520
+24,Papua,Papua,PA,Jayapura,3091047,10,8804
+25,Papua Barat,Papua,PB,Manokwari,849809,2,281
+26,Riau,Sumatra,RI,Pekanbaru,6188442,66,4991
+27,Sulawesi Barat,Sulawesi,SR,Mamuju,1258090,75,94
+28,Sulawesi Selatan,Sulawesi,SN,Makassar,8432163,183,300
+29,Sulawesi Tengah,Sulawesi,ST,Palu,2831283,42,756
+30,Sulawesi Tenggara,Sulawesi,SG,Kendari,2448081,67,330
+31,Sulawesi Utara,Sulawesi,SA,Manado,2386604,171,2296
+32,Sumatera Barat,Sumatra,SB,Padang,5131900,121,2398
+33,Sumatera Selatan,Sumatra,SS,Palembang,7941500,93,1585
+34,Sumatera Utara,Sumatra,SU,Medan,13766851,189,2296
